@@ -1,13 +1,13 @@
-def plus(a, b):
-    return a + b
+def plus(d, b):
+    return d + b
 
 
-def minus(a, b):
-    return a - b
+def minus(d, b):
+    return d - b
 
 
-def mul(a, b):
-    return a * b
+def mul(d, b):
+    return d * b
 
 
 if __name__ == '__main__':
